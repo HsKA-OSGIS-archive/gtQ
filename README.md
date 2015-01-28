@@ -1,6 +1,6 @@
 # gtQ
 
-Project repository for Team getThereQuick
+#Project repository for Team getThereQuick
 
 General Usage notes for gtQ Open Source Project January 2015.HsKA
 
