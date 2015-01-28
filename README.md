@@ -11,6 +11,7 @@ Software Used
 Applications
 
 1.	QGIS
+	
   •	Data authentication (visualization and editing).
 
   •	PostgreSQL (PostGIS – pgRouting extension).
@@ -19,14 +20,19 @@ Applications
 	  •	pgAdmin 3
 
 3.	pgRouting
+4.	
    • SQL Queries.
+
    • http://docs.pgrouting.org/dev/doc/src/tutorial/index.html
 
 4.	Geoserver
+5.	
   •	Publishing our Map.
 
 5.	Open Layers 3
+6.	
   •	Open Layers 3 API Library
+
   •	http://openlayers.org/en/v3.1.1/doc/tutorials/
 
 #Instructions to run the program
