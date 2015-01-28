@@ -54,6 +54,6 @@ Please do refer to the License Section.
 
 #Authors
 
-Maclean Commey
+Maclean Commey - macgeomatics@gmail.com
 
-Monale Langa
+Monale Langa - sepharihla@gmail.com
