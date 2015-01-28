@@ -53,5 +53,7 @@ Applications
 Please do refer to the License Section.
 
 #Authors
+
 Maclean Commey
+
 Monale Langa
