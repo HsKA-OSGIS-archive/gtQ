@@ -1,7 +1,11 @@
 # gtQ
+
 Project repository for Team getThereQuick
+
 General Usage notes for gtQ Open Source Project January 2015.HsKA
+
 About Project
+
 gtQ Open Source GIS project is a project focused on utilizing open source resources to create a project  focused in South Africa about the general usage of roads for locals and also tourist. The project also has additional functionalities such as what do to and place to visit.
 Software Used
 Applications
